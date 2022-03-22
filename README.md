@@ -4,6 +4,7 @@ Website to introduce myself.
 
 ## tarefas
 
+<<<<<<< HEAD
 O controle de tarefas será realizado no GitHub.
 
 ## icones
@@ -12,3 +13,6 @@ O controle de tarefas será realizado no GitHub.
 - :up: atualização
 - :beetle: correção de bug
 - :checkered_flag: release
+=======
+O controle de tarefas será realizado no GitHub.
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973

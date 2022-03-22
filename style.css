@@ -5,6 +5,7 @@
 *{
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
     list-style: none;
     text-decoration: none;
 }
@@ -80,6 +81,8 @@
 
 .show-menu .hamburguer:hover span{
     opacity: 1;
+=======
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
 }
 
 header{
@@ -113,6 +116,7 @@ header{
     }
 }
 
+<<<<<<< HEAD
 .sidebar{
     width: 20rem;
     height: 100vh;
@@ -175,6 +179,8 @@ header{
     background-color: #a044ff;
 }
 
+=======
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
 .banner{
     position: absolute;
     top: 30%;
@@ -184,7 +190,11 @@ header{
 .banner h1{
     color: #ffffff;
     font-size: 3.5rem;
+<<<<<<< HEAD
     font-family: var(--font-primary);
+=======
+    font-family: "Baloo Da 2", serif;
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
     font-weight: 200;
     text-shadow: .2rem .3rem 2px rgba(0, 0, 0, 0.4);
     line-height: 3.5rem;
@@ -194,7 +204,11 @@ header{
 }
 
 .banner p{
+<<<<<<< HEAD
     font-family: var(--font-secundary);
+=======
+    font-family: "Josefin Slab", serif;
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
     color: #ffffff;
     font-size: 2rem;
     text-shadow: .2rem .2rem rgba(0, 0, 0, 0.4);
@@ -204,7 +218,11 @@ header{
 }
 
 .banner button{
+<<<<<<< HEAD
     font-family: var(--font-action);
+=======
+    font-family: "Mulish", serif;
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
     color: #fff;
     text-transform: uppercase;
     letter-spacing: .1rem;
@@ -223,7 +241,11 @@ header{
     opacity: 0,8;
     color: rgb(222, 222, 222);
     background-color: #6a3093;  /* fallback for old browsers */
+<<<<<<< HEAD
     background: -webkit-linear-gradient(to right, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+=======
+    background: -webkit-linear-gradient(to left, #a044ff, #6a3093);  /* Chrome 10-25, Safari 5.1-6 */
+>>>>>>> 83761335543fd83479f63125dc7e87d6b84ba973
     background: linear-gradient(to left, #a044ff, #6a3093); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
